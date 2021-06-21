@@ -44,7 +44,7 @@ push your recent commit to the remote peer
 
 [Jupyter Notebook-oriented Markdown Guide](https://medium.com/analytics-vidhya/the-ultimate-markdown-guide-for-jupyter-notebook-d5e5abf728fd)
 
-## Setups Steps for Virtual Environment and Jupyter Notebook Use
+## Setups Steps for Virtual Environment and Jupyter Notebook Use 
 
 1. Make virtual environment: `python -m venv ch03_env`
 2. Activate virtual environment: `venv\Scripts\activate` (assumes you are on Windows and using PowerShell)

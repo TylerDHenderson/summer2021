@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "Ch02\\ch02_env\\Scripts\\python.exe"
+    "python.pythonPath": "Ch03\\ch03_env\\Scripts\\python.exe",
+    "cSpell.ignoreWords": [
+        "faang"
+    ]
 }
